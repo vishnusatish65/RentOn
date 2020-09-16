@@ -1,0 +1,8 @@
+id,name,password,email,phone_no,role
+1,vishnu,12345,v@gmail.com,27272727,admin
+2,vasu,123456,va@gmail.com,28282828,owner
+3,david,27272,d@gmail.com,92929299,user
+4,mayank,565656,mayankk@bcci.com,92929292,user
+5,karan,575656,mk@bcci.com,9292,owner
+6,narak,adshau,n@gmail.com,90707,owner
+7,sanjeev,password,san@gmail.com,1010101,user

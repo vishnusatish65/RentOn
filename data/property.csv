@@ -1,0 +1,9 @@
+id,area,number_of_bedrooms,amenities,furnishing,locality,owner_id,status
+1,4500,6,"club house,tennis,swimming pool",furnished,Koramangala,1,a
+2,2400,3,"wifi,cook,gym,badminton court",semi-furnished,indiranager,2,na
+3,2400,3,"wifi,cook,gym,badminton court",semi-furnished,indiranager,6,na
+4,2400,3,"wifi,cook,gym,badminton court",semi-furnished,indiranager,2,na
+5,2400,3,"wifi,cook,gym,badminton court",semi-furnished,indiranager,5,na
+6,2400,3,"wifi,cook,gym,badminton court",semi-furnished,indiranager,2,a
+7,3500,4,"gym,swimming pool,tennis",fully furnished,yelehanka,1,a
+8,300,1,cook,unfurnished,indiranagar,2,a
