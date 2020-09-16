@@ -1,7 +1,7 @@
 #this file has function to write in csv
 import csv
 import json
-
+# 'a' refer to the file name, 'b' refers to the data to write, 'c' refer to whether to write a new file or append to the data.
 def write(a,b,c):
     if c == "w":
         header = a[0].keys()
